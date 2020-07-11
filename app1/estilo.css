@@ -1,0 +1,42 @@
+
+body {
+    background: #D9D9D9;
+}
+
+.calculadora {
+    margin-top: 80px;
+    border: solid 1.5px #000;
+    padding: 20px;
+    background-image: linear-gradient(to bottom, rgba(45, 5, 60), rgb(161, 197, 60, 0.650), rgb(45, 5, 60));
+    border-radius: 25px;
+    box-shadow: 2px 2px 5px #000;
+}
+
+.btn {
+    background-image: linear-gradient(to top, rgba(79, 6, 97, 0.651), rgb(149, 8, 192));
+    width: 60px;
+    height: 50px;
+    margin: 5px;
+    box-shadow: 1px 1px 1px rgb(0, 0, 0);
+}
+
+.clear {
+    width: 130px;
+}
+
+.enter {
+    height: 110px;
+}
+
+.zero {
+    width: 130px;
+}
+
+.resultado {
+    text-align: right;
+    font-size: 20px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    border: solid 1px rgb(0, 0, 0);
+    box-shadow: 1px 1px 1px #000;
+}
